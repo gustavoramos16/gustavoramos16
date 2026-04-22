@@ -2,13 +2,6 @@
 
 <h2 align="center">Olá! Eu sou o Gustavo</h2><br>
 
-<div align=center>
-  <a href="https://github.com/gustavoramos16/gustavoramos16" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div><br>
-
-
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
 👨‍💻 &nbsp;Atualmente trabalho na FAB Soluções em São José dos Campos como Desenvolvedor Backend.\
